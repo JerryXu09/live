@@ -7,12 +7,6 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
     },
     {
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
-    },
-    {
       "name": "日美动漫",
       "type": 3,
       "api": "csp_ai",
